@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.section1 {
+  border: 5px solid #000000;
+  width: 1400px;
+  height: 30vh;
+  margin: 30px auto;
+}
+
+.box1 {
+  display: inline-block;
+  background-color: #8a2be2;
+  width: 50px;
+  height: 10vh;
+  margin: 50px 20px 0px 10px;
+}
+
+.box2 {
+  display: inline-block;
+  background-color: #228b22;
+  width: 400px;
+  height: 25vh;
+  margin: 5px 20px 0px 20px;
+}
+
+.box3 {
+  display: inline-block;
+  background-color: #87ceeb;
+  border-radius: 200px;
+  width: 200px;
+  height: 200px;
+  margin: 5px 20px 0px 20px;
+}
