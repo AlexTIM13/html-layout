@@ -6,6 +6,7 @@ body {
   background-color: #ffffff;
 }
 
+/* first section */
 .section1 {
   border: 5px solid #000000;
   width: 1400px;
@@ -36,4 +37,48 @@ body {
   width: 200px;
   height: 200px;
   margin: 5px 20px 0px 20px;
+}
+
+/* second section */
+
+.section2 {
+  border: 6px dotted #101010;
+  width: 1400px;
+  height: 45vh;
+  margin: 30px auto;
+}
+
+.box5 {
+  background-color: #fffacd;
+  box-shadow: 10px 10px 5px #404040;
+  width: 1300px;
+  height: 30vh;
+  margin: 55px auto;
+}
+
+/* third section */
+
+.section3 {
+  border: solid white;
+  width: 1400px;
+  height: 60vh;
+  margin: 30px auto;
+}
+
+.box6 {
+  background-color: white;
+  box-shadow: 10px 10px 5px grey;
+  width: 800px;
+  height: 45vh;
+  margin: 55px auto;
+}
+
+.text1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(23, 23, 77);
+  text-align: center;
+  letter-spacing: 5px;
+  padding: 100px;
+  margin: 10px;
 }
